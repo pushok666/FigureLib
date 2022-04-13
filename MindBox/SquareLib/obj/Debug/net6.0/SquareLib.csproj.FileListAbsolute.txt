@@ -1,0 +1,12 @@
+/home/pasha/Documents/SoftwareDevelopment/MindBox/SquareLib/bin/Debug/net6.0/SquareLib.deps.json
+/home/pasha/Documents/SoftwareDevelopment/MindBox/SquareLib/bin/Debug/net6.0/SquareLib.dll
+/home/pasha/Documents/SoftwareDevelopment/MindBox/SquareLib/bin/Debug/net6.0/SquareLib.pdb
+/home/pasha/Documents/SoftwareDevelopment/MindBox/SquareLib/obj/Debug/net6.0/SquareLib.csproj.AssemblyReference.cache
+/home/pasha/Documents/SoftwareDevelopment/MindBox/SquareLib/obj/Debug/net6.0/SquareLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/pasha/Documents/SoftwareDevelopment/MindBox/SquareLib/obj/Debug/net6.0/SquareLib.AssemblyInfoInputs.cache
+/home/pasha/Documents/SoftwareDevelopment/MindBox/SquareLib/obj/Debug/net6.0/SquareLib.AssemblyInfo.cs
+/home/pasha/Documents/SoftwareDevelopment/MindBox/SquareLib/obj/Debug/net6.0/SquareLib.csproj.CoreCompileInputs.cache
+/home/pasha/Documents/SoftwareDevelopment/MindBox/SquareLib/obj/Debug/net6.0/SquareLib.dll
+/home/pasha/Documents/SoftwareDevelopment/MindBox/SquareLib/obj/Debug/net6.0/refint/SquareLib.dll
+/home/pasha/Documents/SoftwareDevelopment/MindBox/SquareLib/obj/Debug/net6.0/SquareLib.pdb
+/home/pasha/Documents/SoftwareDevelopment/MindBox/SquareLib/obj/Debug/net6.0/ref/SquareLib.dll
